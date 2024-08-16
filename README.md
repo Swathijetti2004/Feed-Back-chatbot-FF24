@@ -1,30 +1,42 @@
 # Feedback Bot for MVGR Workshop
 
 ## Overview
-This project contains a chatbot developed to collect feedback during a 3-day workshop at MVGR College of Engineering. The bot is embedded in a web page and can be accessed via a shareable link.
+This project includes a chatbot developed to collect feedback during a 3-day workshop at MVGR College of Engineering. The bot is available on a web page and is also integrated with Telegram for ease of access.
 
 ## Files
-- **feedback_bot_embed.html**: Contains the embed code to integrate the feedback bot into a webpage.
-- **sharable_link.txt**: Contains the shareable link for easy access to the feedback bot.
+- **feedback_bot_embed.html**: Contains the HTML embed code to integrate the feedback bot into a webpage.
+- **feedback_bot_shareable.txt**: A text file that includes the shareable link to access the feedback bot directly.
+- **telegram_qr_code.jpg**: Contains the QR code for accessing the feedback bot on Telegram.
 
 ## How to Use
+
 ### Embedding the Bot
-1. Copy the contents of the `feedback_bot_embed.html` file.
-2. Paste the code into the HTML file where you want the chatbot to appear.
-3. Ensure that your webpage has access to the internet to load the Botpress scripts.
+1. Open the `feedback_bot_embed.html` file.
+2. Copy the contents of the file.
+3. Paste the code into the HTML of the webpage where you want the chatbot to appear.
+4. Ensure your webpage has internet access to load the Botpress scripts.
 
 ### Accessing the Bot via Shareable Link
-- Simply open the `feedback_bot_shareable.html` file in a web browser or share the link directly:
-  - [Feedback Bot Link](https://cdn.botpress.cloud/webchat/v2/shareable.html?botId=d23eb372-36a4-464e-b5cb-0d3c21ab0cc0)
+1. Open the `feedback_bot_shareable.txt` file.
+2. Retrieve the shareable link for the feedback bot:
+   - [Feedback Bot Link](https://cdn.botpress.cloud/webchat/v2/shareable.html?botId=d23eb372-36a4-464e-b5cb-0d3c21ab0cc0)
+3. Share this link with others for easy access to the bot.
+
+### Telegram Integration
+- The feedback bot is also accessible on Telegram. Use the following ID to interact with the bot:
+  - Telegram ID: [@ff24_fb_bot](https://t.me/ff24_fb_bot)
+- You can scan the QR code below to access the bot directly on Telegram:
+
+  ![Telegram QR Code](telegram_qr_code.jpg)
 
 ## Requirements
-- A web browser with internet access.
-- Basic HTML knowledge for embedding the bot.
+- A web browser with internet access for the web-based bot.
+- Basic HTML knowledge for embedding the bot into a webpage.
+- A Telegram account to access the bot via Telegram.
 
 ## Contact
-For any issues or inquiries, feel free to contact [Your Name].
+For any issues or inquiries, feel free to contact @Swathijetti2004.
 
 ---
 
-**Note**: Make sure the bot ID in the embed code matches the one assigned to your chatbot to ensure proper functionality.
-
+**Note**: Ensure that the bot ID in the embed code matches the one assigned to your chatbot to ensure proper functionality.
