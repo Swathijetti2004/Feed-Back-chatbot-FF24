@@ -5,7 +5,7 @@ This project contains a chatbot developed to collect feedback during a 3-day wor
 
 ## Files
 - **feedback_bot_embed.html**: Contains the embed code to integrate the feedback bot into a webpage.
-- **shareable_link.txt**: Contains the shareable link for easy access to the feedback bot.
+- **sharable_link.txt**: Contains the shareable link for easy access to the feedback bot.
 
 ## How to Use
 ### Embedding the Bot
