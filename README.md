@@ -25,9 +25,8 @@ This project includes a chatbot developed to collect feedback during a 3-day wor
 ### Telegram Integration
 - The feedback bot is also accessible on Telegram. Use the following ID to interact with the bot:
   - Telegram ID: [@ff24_fb_bot](https://t.me/ff24_fb_bot)
-- You can scan the QR code below to access the bot directly on Telegram:
+- You can scan the QR code 'telegram_qr_code.jpg' to access the bot directly on Telegram:
 
-  ![Telegram QR Code](telegram_qr_code.jpg)
 
 ## Requirements
 - A web browser with internet access for the web-based bot.
