@@ -19,7 +19,7 @@ This project includes a chatbot developed to collect feedback during a 3-day wor
 ### Accessing the Bot via Shareable Link
 1. Open the `feedback_bot_shareable.txt` file.
 2. Retrieve the shareable link for the feedback bot:
-   - [Feedback Bot Link](https://cdn.botpress.cloud/webchat/v2/shareable.html?botId=d23eb372-36a4-464e-b5cb-0d3c21ab0cc0)
+   - 'https://cdn.botpress.cloud/webchat/v2/shareable.html?botId=d23eb372-36a4-464e-b5cb-0d3c21ab0cc0'
 3. Share this link with others for easy access to the bot.
 
 ### Telegram Integration
